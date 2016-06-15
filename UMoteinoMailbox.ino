@@ -1,8 +1,9 @@
 // Moteino based MailboxNotifier - RFM69 TRANSMITTER
-// This is the code running on the sensor side
-// LowPowerLab.com  -  2013-2-28 (C) felix@lowpowerlab.com
+// This is the code running on the sensor side, located inside the mailbox
+// Based on code from LowPowerLab.com:
+// https://github.com/LowPowerLab/MailboxNotifier (felix@lowpowerlab.com)
 // http://opensource.org/licenses/mit-license.php
-// uses the RFM12B library found at: https://github.com/LowPowerLab/RFM12B
+
 
 //////////////////////
 // COM4
